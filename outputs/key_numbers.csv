@@ -1,0 +1,27 @@
+metric,value,unit,period
+Ontario unemployment rate,7.3,%,2026-10
+Canada unemployment rate,6.7,%,2026-10
+Ontario unemployment rate a year earlier,7.6,%,2025-10
+Ontario unemployment rate before COVID-19,5.6,%,2020-02
+Ontario pandemic peak unemployment rate,14.2,%,2020-05
+"Months Ontario rate above Canada, last 24 months",24,months,2024-11 to 2026-10
+"Ontario unemployment rate, 15 to 24 years",16.1,%,2026-10
+"Ontario unemployment rate, 15 to 24 years 2019 average",11.8,%,2019
+"Ontario unemployment rate, 25 to 54 years",6.1,%,2026-10
+"Ontario unemployment rate, 25 to 54 years 2019 average",4.5,%,2019
+Ontario total employment,8277.9,thousand persons,2026-10
+Ontario employment change over 12 months,25.4,thousand persons,2025-10 to 2026-10
+Ontario employment change since Feb 2020,10.4,%,2020-02 to 2026-10
+Largest 12-month gain: Health care and social assistance [62],61.2,thousand persons,2026-10
+Largest 12-month loss: Retail trade [44-45],-51.7,thousand persons,2026-10
+Ontario job vacancies,171385,vacancies,2026-08
+Ontario unemployed persons per vacancy,3.6,ratio,2026-08
+Lowest unemployed persons per vacancy,1.1,ratio,2022-07
+Highest unemployed persons per vacancy since 2023,4.1,ratio,2025-10
+Months with no JVWS estimate (survey paused),6,months,2020-04 to 2020-09
+Ontario job vacancy rate,2.5,%,2026-08
+Canada job vacancy rate,2.8,%,2026-08
+Most vacancies: Health care and social assistance [62],31390,vacancies,2026 Q2
+Highest vacancy rate: Accommodation and food services [72],4.4,%,2026 Q2
+"Ontario vacancies, all industries (unadjusted)",190235,vacancies,2026 Q2
+"Ontario vacancies, all industries, change over a year",0.2,%,2026 Q2

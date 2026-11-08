@@ -1,0 +1,21 @@
+industry,Payroll employees_year_ago,Payroll employees_now,Job vacancies_year_ago,Job vacancies_now,Job vacancy rate_year_ago,Job vacancy rate_now,Average offered hourly wage_year_ago,Average offered hourly wage_now,vacancy_change_pct
+Health care and social assistance [62],863820,895620,37735,31390,4.2,3.4,32.1,32.4,-16.8
+Accommodation and food services [72],465695,462930,22070,21445,4.5,4.4,19.4,19.2,-2.8
+Retail trade [44-45],715165,717345,16465,18030,2.3,2.5,21.2,20.85,9.5
+"Professional, scientific and technical services [54]",545570,542005,15000,15910,2.7,2.9,39.9,41.9,6.1
+Manufacturing [31-33],670845,661170,12330,15080,1.8,2.2,30.85,30,22.3
+"Administrative and support, waste management and remediation services [56]",369445,371350,14235,12075,3.7,3.1,25.35,26.65,-15.2
+Construction [23],382720,382795,10505,11570,2.7,2.9,29.2,30.4,10.1
+Finance and insurance [52],410480,424915,9495,10535,2.3,2.4,37.35,37.3,11
+Wholesale trade [41],353695,350020,8790,10320,2.4,2.9,31.55,30.75,17.4
+Transportation and warehousing [48-49],311305,321070,7370,9520,2.3,2.9,28.65,28.3,29.2
+Other services (except public administration) [81],202035,203900,8745,9040,4.1,4.2,26.45,27.65,3.4
+Educational services [61],585665,580530,6415,6200,1.1,1.1,28.85,30.25,-3.4
+Public administration [91],226970,238735,5070,4760,2.2,2,32.85,33.35,-6.1
+"Arts, entertainment and recreation [71]",116005,115125,4695,4430,3.9,3.7,20.15,22.3,-5.6
+Information and cultural industries [51],143815,151765,3215,2775,2.2,1.8,40.85,40.9,-13.7
+Real estate and rental and leasing [53],118520,116825,2750,2490,2.3,2.1,30.2,30.25,-9.5
+"Agriculture, forestry, fishing and hunting [11]",60320,60915,2645,1810,4.2,2.9,19.45,20.8,-31.6
+"Mining, quarrying, and oil and gas extraction [21]",27250,30725,820,1190,2.9,3.7,41.25,42.3,45.1
+Utilities [22],51955,51900,610,825,1.2,1.6,44.3,45.4,35.2
+Management of companies and enterprises [55],47375,50210,905,825,1.9,1.6,32.95,37.85,-8.8

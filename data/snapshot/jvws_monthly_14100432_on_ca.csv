@@ -1,0 +1,787 @@
+REF_DATE,GEO,DGUID,Statistics,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDINATE,VALUE,STATUS,SYMBOL,TERMINATED,DECIMALS
+2015-04,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,438605,A,,,0
+2015-04,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15108360,A,,,0
+2015-04,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.8,A,,,1
+2015-04,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,176535,A,,,0
+2015-04,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,5766930,A,,,0
+2015-04,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.0,A,,,1
+2015-05,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,406980,A,,,0
+2015-05,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15155925,A,,,0
+2015-05,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.6,A,,,1
+2015-05,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,167480,A,,,0
+2015-05,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,5791325,A,,,0
+2015-05,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.8,A,,,1
+2015-06,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,397480,A,,,0
+2015-06,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15178090,A,,,0
+2015-06,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.6,A,,,1
+2015-06,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,153470,A,,,0
+2015-06,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,5811445,A,,,0
+2015-06,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.6,A,,,1
+2015-07,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,376375,A,,,0
+2015-07,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15118200,A,,,0
+2015-07,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.4,A,,,1
+2015-07,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,145760,A,,,0
+2015-07,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,5804395,A,,,0
+2015-07,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.4,A,,,1
+2015-08,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,367665,A,,,0
+2015-08,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15173700,A,,,0
+2015-08,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.4,A,,,1
+2015-08,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,147140,A,,,0
+2015-08,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,5827360,A,,,0
+2015-08,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.5,A,,,1
+2015-09,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,406910,A,,,0
+2015-09,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15169960,A,,,0
+2015-09,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.6,A,,,1
+2015-09,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,159050,A,,,0
+2015-09,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,5836715,A,,,0
+2015-09,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.7,A,,,1
+2015-10,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,363195,A,,,0
+2015-10,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15125050,A,,,0
+2015-10,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.3,A,,,1
+2015-10,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,146270,A,,,0
+2015-10,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,5806900,A,,,0
+2015-10,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.5,A,,,1
+2015-11,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,370010,A,,,0
+2015-11,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15215090,A,,,0
+2015-11,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.4,A,,,1
+2015-11,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,151905,B,,,0
+2015-11,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,5866520,A,,,0
+2015-11,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.5,B,,,1
+2015-12,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,365135,A,,,0
+2015-12,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15174160,A,,,0
+2015-12,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.3,A,,,1
+2015-12,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,150225,A,,,0
+2015-12,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,5838695,A,,,0
+2015-12,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.5,A,,,1
+2016-01,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,366500,A,,,0
+2016-01,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15193500,A,,,0
+2016-01,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.4,A,,,1
+2016-01,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,150215,A,,,0
+2016-01,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,5852115,A,,,0
+2016-01,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.5,A,,,1
+2016-02,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,354315,A,,,0
+2016-02,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15223640,A,,,0
+2016-02,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.3,A,,,1
+2016-02,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,146520,A,,,0
+2016-02,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,5872660,A,,,0
+2016-02,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.4,A,,,1
+2016-03,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,362340,A,,,0
+2016-03,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15196270,A,,,0
+2016-03,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.3,A,,,1
+2016-03,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,145740,A,,,0
+2016-03,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,5878505,A,,,0
+2016-03,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.4,A,,,1
+2016-04,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,339295,A,,,0
+2016-04,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15230220,A,,,0
+2016-04,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.2,A,,,1
+2016-04,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,147280,A,,,0
+2016-04,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,5890715,A,,,0
+2016-04,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.4,A,,,1
+2016-05,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,362390,A,,,0
+2016-05,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15282205,A,,,0
+2016-05,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.3,A,,,1
+2016-05,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,164580,B,,,0
+2016-05,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,5912070,A,,,0
+2016-05,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.7,B,,,1
+2016-06,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,378440,A,,,0
+2016-06,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15248350,A,,,0
+2016-06,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.4,A,,,1
+2016-06,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,164475,A,,,0
+2016-06,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,5913265,A,,,0
+2016-06,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.7,A,,,1
+2016-07,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,372260,A,,,0
+2016-07,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15277865,A,,,0
+2016-07,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.4,A,,,1
+2016-07,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,159525,A,,,0
+2016-07,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,5923420,A,,,0
+2016-07,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.6,A,,,1
+2016-08,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,391355,A,,,0
+2016-08,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15293130,A,,,0
+2016-08,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.5,A,,,1
+2016-08,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,172295,B,,,0
+2016-08,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,5927360,A,,,0
+2016-08,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.8,B,,,1
+2016-09,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,366285,A,,,0
+2016-09,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15309910,A,,,0
+2016-09,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.3,A,,,1
+2016-09,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,158605,A,,,0
+2016-09,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,5941100,A,,,0
+2016-09,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.6,A,,,1
+2016-10,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,372920,A,,,0
+2016-10,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15340545,A,,,0
+2016-10,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.4,A,,,1
+2016-10,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,151540,A,,,0
+2016-10,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,5948410,A,,,0
+2016-10,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.5,A,,,1
+2016-11,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,378270,A,,,0
+2016-11,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15343875,A,,,0
+2016-11,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.4,A,,,1
+2016-11,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,157820,B,,,0
+2016-11,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,5952100,A,,,0
+2016-11,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.6,B,,,1
+2016-12,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,406715,A,,,0
+2016-12,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15369550,A,,,0
+2016-12,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.6,A,,,1
+2016-12,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,167720,A,,,0
+2016-12,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,5975455,A,,,0
+2016-12,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.7,A,,,1
+2017-01,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,403925,A,,,0
+2017-01,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15429920,A,,,0
+2017-01,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.6,A,,,1
+2017-01,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,173570,A,,,0
+2017-01,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,5992400,A,,,0
+2017-01,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.8,A,,,1
+2017-02,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,420455,A,,,0
+2017-02,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15417585,A,,,0
+2017-02,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.7,A,,,1
+2017-02,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,180635,A,,,0
+2017-02,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,5990560,A,,,0
+2017-02,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.9,A,,,1
+2017-03,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,439825,A,,,0
+2017-03,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15475240,A,,,0
+2017-03,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.8,A,,,1
+2017-03,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,193570,B,,,0
+2017-03,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6011335,A,,,0
+2017-03,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.1,B,,,1
+2017-04,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,422430,A,,,0
+2017-04,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15480430,A,,,0
+2017-04,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.7,A,,,1
+2017-04,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,173045,A,,,0
+2017-04,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6020325,A,,,0
+2017-04,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.8,A,,,1
+2017-05,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,428195,A,,,0
+2017-05,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15486805,A,,,0
+2017-05,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.7,A,,,1
+2017-05,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,179335,A,,,0
+2017-05,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6021255,A,,,0
+2017-05,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.9,A,,,1
+2017-06,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,423140,A,,,0
+2017-06,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15516625,A,,,0
+2017-06,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.7,A,,,1
+2017-06,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,175105,A,,,0
+2017-06,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6033185,A,,,0
+2017-06,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.8,A,,,1
+2017-07,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,432580,A,,,0
+2017-07,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15605000,A,,,0
+2017-07,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.7,A,,,1
+2017-07,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,181115,A,,,0
+2017-07,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6065015,A,,,0
+2017-07,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.9,A,,,1
+2017-08,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,433840,A,,,0
+2017-08,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15605505,A,,,0
+2017-08,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.7,A,,,1
+2017-08,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,168670,A,,,0
+2017-08,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6056570,A,,,0
+2017-08,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.7,A,,,1
+2017-09,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,464065,A,,,0
+2017-09,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15673660,A,,,0
+2017-09,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.9,A,,,1
+2017-09,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,185740,A,,,0
+2017-09,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6076640,A,,,0
+2017-09,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.0,A,,,1
+2017-10,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,460480,A,,,0
+2017-10,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15687310,A,,,0
+2017-10,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.9,A,,,1
+2017-10,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,186195,A,,,0
+2017-10,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6088420,A,,,0
+2017-10,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.0,A,,,1
+2017-11,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,494765,A,,,0
+2017-11,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15663805,A,,,0
+2017-11,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.1,A,,,1
+2017-11,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,191865,A,,,0
+2017-11,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6076260,A,,,0
+2017-11,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.1,A,,,1
+2017-12,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,489290,A,,,0
+2017-12,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15680290,A,,,0
+2017-12,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.0,A,,,1
+2017-12,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,191895,A,,,0
+2017-12,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6086915,A,,,0
+2017-12,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.1,A,,,1
+2018-01,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,478750,A,,,0
+2018-01,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15718300,A,,,0
+2018-01,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.0,A,,,1
+2018-01,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,183285,A,,,0
+2018-01,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6098770,A,,,0
+2018-01,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.9,A,,,1
+2018-02,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,500745,A,,,0
+2018-02,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15724180,A,,,0
+2018-02,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.1,A,,,1
+2018-02,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,193735,A,,,0
+2018-02,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6106585,A,,,0
+2018-02,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.1,A,,,1
+2018-03,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,507800,A,,,0
+2018-03,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15768400,A,,,0
+2018-03,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.1,A,,,1
+2018-03,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,200360,A,,,0
+2018-03,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6118735,A,,,0
+2018-03,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.2,A,,,1
+2018-04,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,498660,A,,,0
+2018-04,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15821890,A,,,0
+2018-04,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.1,A,,,1
+2018-04,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,192495,A,,,0
+2018-04,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6144100,A,,,0
+2018-04,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.0,A,,,1
+2018-05,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,506835,A,,,0
+2018-05,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15815055,A,,,0
+2018-05,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.1,A,,,1
+2018-05,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,191345,A,,,0
+2018-05,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6142855,A,,,0
+2018-05,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.0,A,,,1
+2018-06,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,520800,A,,,0
+2018-06,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15890320,A,,,0
+2018-06,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.2,A,,,1
+2018-06,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,208025,A,,,0
+2018-06,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6176760,A,,,0
+2018-06,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.3,A,,,1
+2018-07,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,527190,A,,,0
+2018-07,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15917060,A,,,0
+2018-07,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.2,A,,,1
+2018-07,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,205960,A,,,0
+2018-07,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6187470,A,,,0
+2018-07,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.2,A,,,1
+2018-08,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,507045,A,,,0
+2018-08,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15884895,A,,,0
+2018-08,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.1,A,,,1
+2018-08,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,189530,A,,,0
+2018-08,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6187575,A,,,0
+2018-08,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.0,A,,,1
+2018-09,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,541495,A,,,0
+2018-09,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15949760,A,,,0
+2018-09,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.3,A,,,1
+2018-09,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,208330,A,,,0
+2018-09,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6214390,A,,,0
+2018-09,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.2,A,,,1
+2018-10,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,574865,A,,,0
+2018-10,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15971855,A,,,0
+2018-10,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.5,A,,,1
+2018-10,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,227025,C,,,0
+2018-10,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6223670,A,,,0
+2018-10,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.5,C,,,1
+2018-11,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,556020,A,,,0
+2018-11,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,16021870,A,,,0
+2018-11,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.4,A,,,1
+2018-11,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,216390,B,,,0
+2018-11,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6248875,A,,,0
+2018-11,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.3,B,,,1
+2018-12,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,557165,A,,,0
+2018-12,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,16132960,A,,,0
+2018-12,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.3,A,,,1
+2018-12,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,213095,A,,,0
+2018-12,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6278690,A,,,0
+2018-12,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.3,A,,,1
+2019-01,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,544825,A,,,0
+2019-01,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,16098800,A,,,0
+2019-01,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.3,A,,,1
+2019-01,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,212025,A,,,0
+2019-01,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6267045,A,,,0
+2019-01,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.3,A,,,1
+2019-02,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,542500,A,,,0
+2019-02,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,16167290,A,,,0
+2019-02,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.2,A,,,1
+2019-02,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,207405,A,,,0
+2019-02,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6286395,A,,,0
+2019-02,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.2,A,,,1
+2019-03,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,546780,A,,,0
+2019-03,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,16209120,A,,,0
+2019-03,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.3,A,,,1
+2019-03,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,200565,A,,,0
+2019-03,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6299730,A,,,0
+2019-03,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.1,A,,,1
+2019-04,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,546720,A,,,0
+2019-04,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,16204335,A,,,0
+2019-04,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.3,A,,,1
+2019-04,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,208030,A,,,0
+2019-04,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6306495,A,,,0
+2019-04,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.2,A,,,1
+2019-05,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,546680,A,,,0
+2019-05,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,16204675,A,,,0
+2019-05,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.3,A,,,1
+2019-05,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,201720,A,,,0
+2019-05,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6309250,A,,,0
+2019-05,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.1,A,,,1
+2019-06,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,537935,A,,,0
+2019-06,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,16262620,A,,,0
+2019-06,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.2,A,,,1
+2019-06,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,204395,A,,,0
+2019-06,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6321490,A,,,0
+2019-06,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.1,A,,,1
+2019-07,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,534940,A,,,0
+2019-07,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,16254680,A,,,0
+2019-07,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.2,A,,,1
+2019-07,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,196230,A,,,0
+2019-07,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6317530,A,,,0
+2019-07,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.0,A,,,1
+2019-08,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,541945,A,,,0
+2019-08,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,16308375,A,,,0
+2019-08,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.2,A,,,1
+2019-08,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,199670,A,,,0
+2019-08,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6342010,A,,,0
+2019-08,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.1,A,,,1
+2019-09,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,531475,A,,,0
+2019-09,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,16340270,A,,,0
+2019-09,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.2,A,,,1
+2019-09,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,198070,B,,,0
+2019-09,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6349650,A,,,0
+2019-09,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.0,B,,,1
+2019-10,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,538195,A,,,0
+2019-10,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,16338945,A,,,0
+2019-10,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.2,A,,,1
+2019-10,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,197020,A,,,0
+2019-10,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6346810,A,,,0
+2019-10,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.0,A,,,1
+2019-11,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,523095,A,,,0
+2019-11,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,16352820,A,,,0
+2019-11,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.1,A,,,1
+2019-11,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,194965,A,,,0
+2019-11,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6345520,A,,,0
+2019-11,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.0,A,,,1
+2019-12,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,518165,A,,,0
+2019-12,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,16375450,A,,,0
+2019-12,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.1,A,,,1
+2019-12,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,184190,B,,,0
+2019-12,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6366000,A,,,0
+2019-12,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.8,B,,,1
+2020-01,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,577570,A,,,0
+2020-01,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,16365465,A,,,0
+2020-01,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.4,A,,,1
+2020-01,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,214130,A,,,0
+2020-01,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6357010,A,,,0
+2020-01,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.3,A,,,1
+2020-02,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,574645,A,,,0
+2020-02,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,16410440,A,,,0
+2020-02,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.4,A,,,1
+2020-02,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,209010,A,,,0
+2020-02,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6374780,A,,,0
+2020-02,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.2,A,,,1
+2020-03,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,527265,A,,,0
+2020-03,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,16381735,A,,,0
+2020-03,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.1,A,,,1
+2020-03,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,189325,A,,,0
+2020-03,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6366215,A,,,0
+2020-03,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.9,A,,,1
+2020-10,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,588015,A,,,0
+2020-10,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15099440,A,,,0
+2020-10,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.7,A,,,1
+2020-10,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,214130,A,,,0
+2020-10,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,5803850,A,,,0
+2020-10,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.6,A,,,1
+2020-11,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,572935,A,,,0
+2020-11,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15279375,A,,,0
+2020-11,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.6,A,,,1
+2020-11,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,205240,A,,,0
+2020-11,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,5880855,A,,,0
+2020-11,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.4,A,,,1
+2020-12,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,569935,A,,,0
+2020-12,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15252580,A,,,0
+2020-12,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.6,A,,,1
+2020-12,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,212535,A,,,0
+2020-12,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,5879755,A,,,0
+2020-12,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.5,A,,,1
+2021-01,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,554330,A,,,0
+2021-01,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15288430,A,,,0
+2021-01,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.5,A,,,1
+2021-01,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,207515,A,,,0
+2021-01,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,5901530,A,,,0
+2021-01,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.4,A,,,1
+2021-02,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,609365,A,,,0
+2021-02,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15153990,A,,,0
+2021-02,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.9,A,,,1
+2021-02,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,208515,A,,,0
+2021-02,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,5832980,A,,,0
+2021-02,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.5,A,,,1
+2021-03,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,637600,A,,,0
+2021-03,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15225500,A,,,0
+2021-03,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,4.0,A,,,1
+2021-03,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,227055,A,,,0
+2021-03,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,5827310,A,,,0
+2021-03,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.8,A,,,1
+2021-04,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,640360,A,,,0
+2021-04,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15433175,A,,,0
+2021-04,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,4.0,A,,,1
+2021-04,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,233305,A,,,0
+2021-04,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,5944525,A,,,0
+2021-04,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.8,A,,,1
+2021-05,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,658090,A,,,0
+2021-05,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15558350,A,,,0
+2021-05,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,4.1,A,,,1
+2021-05,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,233355,A,,,0
+2021-05,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,5992085,A,,,0
+2021-05,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.7,A,,,1
+2021-06,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,768880,A,,,0
+2021-06,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15326130,A,,,0
+2021-06,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,4.8,A,,,1
+2021-06,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,290130,A,,,0
+2021-06,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,5825850,A,,,0
+2021-06,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,4.7,A,,,1
+2021-07,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,815585,A,,,0
+2021-07,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15518045,A,,,0
+2021-07,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,5.0,A,,,1
+2021-07,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,316115,A,,,0
+2021-07,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,5914060,A,,,0
+2021-07,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,5.1,A,,,1
+2021-08,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,893235,A,,,0
+2021-08,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15836840,A,,,0
+2021-08,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,5.3,A,,,1
+2021-08,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,324640,A,,,0
+2021-08,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6098550,A,,,0
+2021-08,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,5.1,A,,,1
+2021-09,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,941100,A,,,0
+2021-09,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,15941490,A,,,0
+2021-09,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,5.6,A,,,1
+2021-09,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,335365,A,,,0
+2021-09,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6138605,A,,,0
+2021-09,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,5.2,A,,,1
+2021-10,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,931260,A,,,0
+2021-10,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,16026315,A,,,0
+2021-10,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,5.5,A,,,1
+2021-10,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,356580,A,,,0
+2021-10,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6174840,A,,,0
+2021-10,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,5.5,A,,,1
+2021-11,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,912010,A,,,0
+2021-11,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,16136725,A,,,0
+2021-11,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,5.3,A,,,1
+2021-11,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,333085,A,,,0
+2021-11,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6227390,A,,,0
+2021-11,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,5.1,A,,,1
+2021-12,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,976955,A,,,0
+2021-12,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,16206930,A,,,0
+2021-12,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,5.7,A,,,1
+2021-12,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,366565,A,,,0
+2021-12,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6256430,A,,,0
+2021-12,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,5.5,A,,,1
+2022-01,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,911250,A,,,0
+2022-01,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,16317205,A,,,0
+2022-01,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,5.3,A,,,1
+2022-01,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,346475,A,,,0
+2022-01,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6308580,A,,,0
+2022-01,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,5.2,A,,,1
+2022-02,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,904535,A,,,0
+2022-02,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,16280720,A,,,0
+2022-02,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,5.3,A,,,1
+2022-02,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,337880,A,,,0
+2022-02,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6292935,A,,,0
+2022-02,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,5.1,A,,,1
+2022-03,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,984485,A,,,0
+2022-03,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,16409215,A,,,0
+2022-03,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,5.7,A,,,1
+2022-03,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,364570,A,,,0
+2022-03,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6347220,A,,,0
+2022-03,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,5.4,A,,,1
+2022-04,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,977875,A,,,0
+2022-04,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,16511665,A,,,0
+2022-04,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,5.6,A,,,1
+2022-04,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,378355,A,,,0
+2022-04,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6391025,A,,,0
+2022-04,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,5.6,A,,,1
+2022-05,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,986725,A,,,0
+2022-05,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,16629030,A,,,0
+2022-05,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,5.6,A,,,1
+2022-05,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,369630,A,,,0
+2022-05,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6460180,A,,,0
+2022-05,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,5.4,A,,,1
+2022-06,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,990325,A,,,0
+2022-06,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,16612215,A,,,0
+2022-06,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,5.6,A,,,1
+2022-06,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,371050,A,,,0
+2022-06,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6431885,A,,,0
+2022-06,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,5.5,A,,,1
+2022-07,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,983280,A,,,0
+2022-07,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,16717030,A,,,0
+2022-07,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,5.6,A,,,1
+2022-07,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,369825,A,,,0
+2022-07,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6480145,A,,,0
+2022-07,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,5.4,A,,,1
+2022-08,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,947690,A,,,0
+2022-08,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,16751600,A,,,0
+2022-08,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,5.4,A,,,1
+2022-08,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,351695,A,,,0
+2022-08,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6508150,A,,,0
+2022-08,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,5.1,A,,,1
+2022-09,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,948120,A,,,0
+2022-09,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,16755655,A,,,0
+2022-09,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,5.4,A,,,1
+2022-09,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,354000,A,,,0
+2022-09,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6505990,A,,,0
+2022-09,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,5.2,A,,,1
+2022-10,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,902995,A,,,0
+2022-10,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,16854215,A,,,0
+2022-10,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,5.1,A,,,1
+2022-10,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,338985,A,,,0
+2022-10,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6546120,A,,,0
+2022-10,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,4.9,A,,,1
+2022-11,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,872290,A,,,0
+2022-11,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,16861970,A,,,0
+2022-11,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,4.9,A,,,1
+2022-11,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,324375,A,,,0
+2022-11,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6552965,A,,,0
+2022-11,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,4.7,A,,,1
+2022-12,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,849795,A,,,0
+2022-12,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,16934540,A,,,0
+2022-12,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,4.8,A,,,1
+2022-12,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,313225,A,,,0
+2022-12,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6570935,A,,,0
+2022-12,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,4.5,A,,,1
+2023-01,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,843950,A,,,0
+2023-01,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,16990215,A,,,0
+2023-01,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,4.7,A,,,1
+2023-01,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,306255,A,,,0
+2023-01,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6586530,A,,,0
+2023-01,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,4.4,A,,,1
+2023-02,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,813120,A,,,0
+2023-02,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17006105,A,,,0
+2023-02,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,4.6,A,,,1
+2023-02,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,290340,A,,,0
+2023-02,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6589610,A,,,0
+2023-02,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,4.2,A,,,1
+2023-03,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,794665,A,,,0
+2023-03,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17077610,A,,,0
+2023-03,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,4.4,A,,,1
+2023-03,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,280960,A,,,0
+2023-03,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6618900,A,,,0
+2023-03,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,4.1,A,,,1
+2023-04,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,783010,A,,,0
+2023-04,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17075740,A,,,0
+2023-04,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,4.4,A,,,1
+2023-04,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,271305,A,,,0
+2023-04,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6621690,A,,,0
+2023-04,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.9,A,,,1
+2023-05,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,763255,A,,,0
+2023-05,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17089330,A,,,0
+2023-05,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,4.3,A,,,1
+2023-05,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,269975,A,,,0
+2023-05,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6630250,A,,,0
+2023-05,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.9,A,,,1
+2023-06,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,748240,A,,,0
+2023-06,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17122435,A,,,0
+2023-06,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,4.2,A,,,1
+2023-06,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,266540,A,,,0
+2023-06,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6630420,A,,,0
+2023-06,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.9,A,,,1
+2023-07,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,726840,A,,,0
+2023-07,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17184200,A,,,0
+2023-07,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,4.1,A,,,1
+2023-07,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,247700,B,,,0
+2023-07,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6656805,A,,,0
+2023-07,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.6,B,,,1
+2023-08,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,717795,A,,,0
+2023-08,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17149265,A,,,0
+2023-08,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,4.0,A,,,1
+2023-08,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,254580,A,,,0
+2023-08,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6648365,A,,,0
+2023-08,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.7,A,,,1
+2023-09,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,660630,A,,,0
+2023-09,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17150090,A,,,0
+2023-09,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.7,A,,,1
+2023-09,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,233450,A,,,0
+2023-09,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6648030,A,,,0
+2023-09,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.4,A,,,1
+2023-10,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,685225,A,,,0
+2023-10,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17214475,A,,,0
+2023-10,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.8,A,,,1
+2023-10,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,229740,A,,,0
+2023-10,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6681865,A,,,0
+2023-10,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.3,A,,,1
+2023-11,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,673670,A,,,0
+2023-11,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17197280,A,,,0
+2023-11,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.8,A,,,1
+2023-11,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,238025,A,,,0
+2023-11,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6673870,A,,,0
+2023-11,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.4,A,,,1
+2023-12,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,628920,A,,,0
+2023-12,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17138920,A,,,0
+2023-12,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.5,A,,,1
+2023-12,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,221920,A,,,0
+2023-12,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6672715,A,,,0
+2023-12,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.2,A,,,1
+2024-01,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,653650,A,,,0
+2024-01,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17183925,A,,,0
+2024-01,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.7,A,,,1
+2024-01,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,223655,A,,,0
+2024-01,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6671535,A,,,0
+2024-01,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.2,A,,,1
+2024-02,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,644640,A,,,0
+2024-02,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17193845,A,,,0
+2024-02,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.6,A,,,1
+2024-02,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,225890,A,,,0
+2024-02,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6677165,A,,,0
+2024-02,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.3,A,,,1
+2024-03,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,596770,A,,,0
+2024-03,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17230685,A,,,0
+2024-03,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.3,A,,,1
+2024-03,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,210570,A,,,0
+2024-03,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6692830,A,,,0
+2024-03,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,3.1,A,,,1
+2024-04,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,587295,A,,,0
+2024-04,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17281880,A,,,0
+2024-04,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.3,A,,,1
+2024-04,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,203665,A,,,0
+2024-04,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6720765,A,,,0
+2024-04,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.9,A,,,1
+2024-05,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,569035,A,,,0
+2024-05,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17284655,A,,,0
+2024-05,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.2,A,,,1
+2024-05,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,194310,A,,,0
+2024-05,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6727585,A,,,0
+2024-05,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.8,A,,,1
+2024-06,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,555535,A,,,0
+2024-06,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17321075,A,,,0
+2024-06,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.1,A,,,1
+2024-06,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,194830,A,,,0
+2024-06,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6728875,A,,,0
+2024-06,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.8,A,,,1
+2024-07,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,550850,A,,,0
+2024-07,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17283655,A,,,0
+2024-07,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.1,A,,,1
+2024-07,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,193235,B,,,0
+2024-07,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6721100,A,,,0
+2024-07,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.8,B,,,1
+2024-08,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,545570,A,,,0
+2024-08,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17285780,A,,,0
+2024-08,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.1,A,,,1
+2024-08,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,180510,A,,,0
+2024-08,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6718750,A,,,0
+2024-08,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.6,A,,,1
+2024-09,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,538680,A,,,0
+2024-09,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17323330,A,,,0
+2024-09,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.0,A,,,1
+2024-09,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,180555,A,,,0
+2024-09,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6723225,A,,,0
+2024-09,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.6,A,,,1
+2024-10,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,536585,A,,,0
+2024-10,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17311630,A,,,0
+2024-10,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.0,A,,,1
+2024-10,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,182710,A,,,0
+2024-10,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6717610,A,,,0
+2024-10,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.6,A,,,1
+2024-11,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,541210,A,,,0
+2024-11,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17320050,A,,,0
+2024-11,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.0,A,,,1
+2024-11,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,184575,A,,,0
+2024-11,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6708300,A,,,0
+2024-11,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.7,A,,,1
+2024-12,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,529960,A,,,0
+2024-12,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17320395,A,,,0
+2024-12,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,3.0,A,,,1
+2024-12,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,176775,A,,,0
+2024-12,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6714685,A,,,0
+2024-12,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.6,A,,,1
+2025-01,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,524470,A,,,0
+2025-01,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17366775,A,,,0
+2025-01,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.9,A,,,1
+2025-01,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,179720,A,,,0
+2025-01,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6728235,A,,,0
+2025-01,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.6,A,,,1
+2025-02,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,518640,A,,,0
+2025-02,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17382665,A,,,0
+2025-02,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.9,A,,,1
+2025-02,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,185030,A,,,0
+2025-02,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6737425,A,,,0
+2025-02,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.7,A,,,1
+2025-03,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,514875,A,,,0
+2025-03,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17355380,A,,,0
+2025-03,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.9,A,,,1
+2025-03,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,176840,A,,,0
+2025-03,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6726205,A,,,0
+2025-03,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.6,A,,,1
+2025-04,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,507935,A,,,0
+2025-04,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17334960,A,,,0
+2025-04,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.8,A,,,1
+2025-04,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,179180,A,,,0
+2025-04,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6710070,A,,,0
+2025-04,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.6,A,,,1
+2025-05,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,497115,A,,,0
+2025-05,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17339245,A,,,0
+2025-05,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.8,A,,,1
+2025-05,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,177725,A,,,0
+2025-05,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6712415,A,,,0
+2025-05,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.6,A,,,1
+2025-06,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,495280,A,,,0
+2025-06,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17366855,A,,,0
+2025-06,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.8,A,,,1
+2025-06,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,175495,A,,,0
+2025-06,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6717975,A,,,0
+2025-06,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.5,A,,,1
+2025-07,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,495445,A,,,0
+2025-07,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17339540,A,,,0
+2025-07,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.8,A,,,1
+2025-07,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,175680,A,,,0
+2025-07,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6707505,A,,,0
+2025-07,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.6,A,,,1
+2025-08,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,481405,A,,,0
+2025-08,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17370250,A,,,0
+2025-08,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.7,A,,,1
+2025-08,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,169920,A,,,0
+2025-08,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6719955,A,,,0
+2025-08,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.5,A,,,1
+2025-09,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,492180,A,,,0
+2025-09,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17378810,A,,,0
+2025-09,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.8,A,,,1
+2025-09,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,174610,A,,,0
+2025-09,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6730840,A,,,0
+2025-09,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.5,A,,,1
+2025-10,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,482215,A,,,0
+2025-10,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17364765,A,,,0
+2025-10,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.7,A,,,1
+2025-10,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,164035,A,,,0
+2025-10,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6708950,A,,,0
+2025-10,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.4,A,,,1
+2025-11,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,484100,A,,,0
+2025-11,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17406030,A,,,0
+2025-11,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.7,A,,,1
+2025-11,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,164515,A,,,0
+2025-11,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6736090,A,,,0
+2025-11,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.4,A,,,1
+2025-12,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,507720,A,,,0
+2025-12,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17399170,A,,,0
+2025-12,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.8,A,,,1
+2025-12,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,175825,A,,,0
+2025-12,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6727690,A,,,0
+2025-12,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.5,A,,,1
+2026-01,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,502195,A,,,0
+2026-01,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17425195,A,,,0
+2026-01,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.8,A,,,1
+2026-01,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,173050,A,,,0
+2026-01,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6739350,A,,,0
+2026-01,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.5,A,,,1
+2026-02,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,504910,A,,,0
+2026-02,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17472890,A,,,0
+2026-02,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.8,A,,,1
+2026-02,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,171285,A,,,0
+2026-02,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6755370,A,,,0
+2026-02,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.5,A,,,1
+2026-03,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,496475,A,,,0
+2026-03,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17467030,A,,,0
+2026-03,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.8,A,,,1
+2026-03,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,173670,A,,,0
+2026-03,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6753245,A,,,0
+2026-03,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.5,A,,,1
+2026-04,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,498325,A,,,0
+2026-04,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17476540,A,,,0
+2026-04,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.8,A,,,1
+2026-04,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,168575,A,,,0
+2026-04,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6760330,A,,,0
+2026-04,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.4,A,,,1
+2026-05,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,506275,A,,,0
+2026-05,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17530385,A,,,0
+2026-05,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.8,A,,,1
+2026-05,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,178425,A,,,0
+2026-05,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6779065,A,,,0
+2026-05,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.6,A,,,1
+2026-06,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,507385,A,,,0
+2026-06,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17546815,A,,,0
+2026-06,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.8,A,,,1
+2026-06,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,180625,A,,,0
+2026-06,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6774060,A,,,0
+2026-06,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.6,A,,,1
+2026-07,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,502030,A,,,0
+2026-07,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17552345,A,,,0
+2026-07,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.8,A,,,1
+2026-07,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,169525,B,,,0
+2026-07,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6776910,A,,,0
+2026-07,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.4,B,,,1
+2026-08,Canada,2016A000011124,Job vacancies,Number,223,units,0,v1481212145,1.1,507220,A,,,0
+2026-08,Canada,2016A000011124,Payroll employees,Number,223,units,0,v1481212146,1.2,17589650,A,,,0
+2026-08,Canada,2016A000011124,Job vacancy rate,Percent,239,units,0,v1481212147,1.3,2.8,A,,,1
+2026-08,Ontario,2016A000235,Job vacancies,Number,223,units,0,v1481212163,7.1,171385,B,,,0
+2026-08,Ontario,2016A000235,Payroll employees,Number,223,units,0,v1481212164,7.2,6791575,A,,,0
+2026-08,Ontario,2016A000235,Job vacancy rate,Percent,239,units,0,v1481212165,7.3,2.5,B,,,1

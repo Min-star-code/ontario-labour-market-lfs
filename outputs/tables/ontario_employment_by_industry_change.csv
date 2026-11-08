@@ -1,0 +1,22 @@
+industry,pre_covid,year_ago,now,change_12m,pct_12m,change_since_feb2020,pct_since_feb2020
+Health care and social assistance [62],908,1013.4,1074.6,61.2,6,166.6,18.3
+Transportation and warehousing [48-49],393.5,435,460.6,25.6,5.9,67.1,17.1
+"Total employed, all industries",7501.2,8252.5,8277.9,25.4,0.3,776.7,10.4
+"Finance, insurance, real estate, rental and leasing [52-53]",593.7,715.3,732.7,17.4,2.4,139,23.4
+Goods-producing sector,1497.8,1576.1,1592.8,16.7,1.1,95,6.3
+Construction [23],565.2,571,586.8,15.8,2.8,21.6,3.8
+"Business, building and other support services [55-56]",316.8,268,283.5,15.5,5.8,-33.3,-10.5
+Other services (except public administration) [81],291.2,288.3,299.6,11.3,3.9,8.4,2.9
+Services-producing sector,6003.3,6676.4,6685.1,8.7,0.1,681.8,11.4
+Manufacturing [31-33],770.5,827.9,832.9,5,0.6,62.4,8.1
+"Professional, scientific and technical services [54]",684.8,918.2,922.4,4.2,0.5,237.6,34.7
+"Forestry, fishing, mining, quarrying, oil and gas [21, 113-114, 1153, 2100]",36.5,44.2,47.5,3.3,7.5,11,30.1
+"Information, culture and recreation [51, 71]",309.8,364.1,364.6,0.5,0.1,54.8,17.7
+Public administration [91],382.1,465.7,464.7,-1,-0.2,82.6,21.6
+"Agriculture [111-112, 1100, 1151-1152]",75.2,64,62.9,-1.1,-1.7,-12.3,-16.4
+Utilities [22],50.5,69.1,62.7,-6.4,-9.3,12.2,24.2
+Educational services [61],532.7,590.3,581,-9.3,-1.6,48.3,9.1
+Wholesale trade [41],266.7,309.3,282.1,-27.2,-8.8,15.4,5.8
+Accommodation and food services [72],451.8,452.4,414.5,-37.9,-8.4,-37.3,-8.3
+Retail trade [44-45],872.2,856.5,804.8,-51.7,-6,-67.4,-7.7
+"Wholesale and retail trade [41, 44-45]",1139,1165.8,1086.9,-78.9,-6.8,-52.1,-4.6
