@@ -4,6 +4,10 @@ An R analysis of Ontario's labour market using Statistics Canada's **Labour Forc
 
 **Briefing note:** [reports/labour_market_brief.md](reports/labour_market_brief.md)
 
+| | |
+|---|---|
+| ![Ontario unemployed persons per job vacancy, 2015 to 2026](outputs/figures/fig4_ontario_unemployed_per_vacancy.png) | ![Ontario vs Canada unemployment rate](outputs/figures/fig1_unemployment_on_vs_ca.png) |
+
 ## Questions
 
 1. How does Ontario's unemployment rate compare with Canada's, and with before COVID-19?
